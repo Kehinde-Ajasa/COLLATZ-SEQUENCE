@@ -20,4 +20,4 @@ try:
     print(f'The sequence has  {counter + 2} characters')
     print(collatz(my_number))
 except NameError:
-    print('')
+    print('INVALID INFORMATION ENTERED')
