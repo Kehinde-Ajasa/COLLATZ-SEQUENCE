@@ -1,0 +1,2 @@
+# COLLATZ-SEQUENCE
+The collatz sequence is a conjecture in mathematics that follows a sequence. This sequence is defined below: The sequence begins with any positive integer, say n. If the integer n is odd, the next number in sequence would be 3n+1. If the integer n is even, the next number in sequence would be n/2.The  sequence continues recursively till it gets to 1. The uniqueness of my solution is that it helps in printing out the total amount of items in the sequence
